@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="lagoon">#4cb7a5</color>
+    <color name="deep_red_velvet">#864747</color>
+    <color name="vivid_yellow">#FFFF00</color>
+    <color name="milano_red">#C4150C</color>
+    <color name="Rallyblue">#21a2e0</color>
+</resources>
